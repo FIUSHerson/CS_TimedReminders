@@ -1,0 +1,15 @@
+C:\Users\anthi\OneDrive\Documents\projects\CS_TimedReminders_github\bin\Debug\CS_TimedReminders.exe.config
+C:\Users\anthi\OneDrive\Documents\projects\CS_TimedReminders_github\bin\Debug\CS_TimedReminders.exe
+C:\Users\anthi\OneDrive\Documents\projects\CS_TimedReminders_github\bin\Debug\CS_TimedReminders.pdb
+C:\Users\anthi\OneDrive\Documents\projects\CS_TimedReminders_github\obj\Debug\CS_TimedReminders.csprojAssemblyReference.cache
+C:\Users\anthi\OneDrive\Documents\projects\CS_TimedReminders_github\obj\Debug\MainWindow.g.cs
+C:\Users\anthi\OneDrive\Documents\projects\CS_TimedReminders_github\obj\Debug\App.g.cs
+C:\Users\anthi\OneDrive\Documents\projects\CS_TimedReminders_github\obj\Debug\CS_TimedReminders_MarkupCompile.cache
+C:\Users\anthi\OneDrive\Documents\projects\CS_TimedReminders_github\obj\Debug\CS_TimedReminders_MarkupCompile.lref
+C:\Users\anthi\OneDrive\Documents\projects\CS_TimedReminders_github\obj\Debug\MainWindow.baml
+C:\Users\anthi\OneDrive\Documents\projects\CS_TimedReminders_github\obj\Debug\CS_TimedReminders.g.resources
+C:\Users\anthi\OneDrive\Documents\projects\CS_TimedReminders_github\obj\Debug\CS_TimedReminders.Properties.Resources.resources
+C:\Users\anthi\OneDrive\Documents\projects\CS_TimedReminders_github\obj\Debug\CS_TimedReminders.csproj.GenerateResource.cache
+C:\Users\anthi\OneDrive\Documents\projects\CS_TimedReminders_github\obj\Debug\CS_TimedReminders.csproj.CoreCompileInputs.cache
+C:\Users\anthi\OneDrive\Documents\projects\CS_TimedReminders_github\obj\Debug\CS_TimedReminders.exe
+C:\Users\anthi\OneDrive\Documents\projects\CS_TimedReminders_github\obj\Debug\CS_TimedReminders.pdb
