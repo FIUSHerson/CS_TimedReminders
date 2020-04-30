@@ -14,3 +14,6 @@ Length of timer set to time on clock (goal)
 Features which we have no idea how to do but want to make happen anyway:
 * Circle progress bar
 * Loading profiles
+
+Welcome Screen
+* Draggable elements that can swap time
