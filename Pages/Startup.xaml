@@ -9,17 +9,17 @@
       Title="Startup">
 
     <Grid>
-        
+
         <!--Top level grid, separating major UI elements-->
         <Grid.RowDefinitions>
             <RowDefinition Height="75"/>
             <RowDefinition/>
             <RowDefinition Height="50"/>
         </Grid.RowDefinitions>
-        
+
         <!--Label for title of page-->
         <Label Content="Startup" HorizontalAlignment="Left" Margin="32,1,0,0" VerticalAlignment="Center" FontSize="48"/>
-        
+
         <!--Padding for main content-->
         <Grid Grid.Row="1">
             <Grid.ColumnDefinitions>
@@ -27,14 +27,14 @@
                 <ColumnDefinition Width="20*"/>
                 <ColumnDefinition/>
             </Grid.ColumnDefinitions>
-            
+
             <!--Main content-->
             <StackPanel Grid.Column="1">
-                
+
             </StackPanel>
-            
+
         </Grid>
-        
+
         <!--Button Layout-->
         <Grid Grid.Row="2">
             <Grid.ColumnDefinitions>
@@ -44,14 +44,15 @@
                 <ColumnDefinition Width="125"/>
                 <ColumnDefinition Width="125"/>
             </Grid.ColumnDefinitions>
-            
+
             <!--Buttons-->
             <Button Grid.Column="1" x:Name="Add" Content="Add" Margin="10,10" MouseLeftButtonDown="Add_MouseLeftButtonDown"/>
             <Button Grid.Column="2" x:Name="Remove" Content="Remove" Margin="10,10" MouseLeftButtonDown="Remove_MouseLeftButtonDown"/>
             <Button Grid.Column="3" x:Name="Edit" Content="Edit" Margin="10,10" MouseLeftButtonDown="Edit_MouseLeftButtonDown"/>
             <Button Grid.Column="4" x:Name="Start" Content="Start" Margin="10,10" MouseLeftButtonDown="Start_MouseLeftButtonDown"/>
-            
+
         </Grid>
-        
+
+
     </Grid>
 </Page>

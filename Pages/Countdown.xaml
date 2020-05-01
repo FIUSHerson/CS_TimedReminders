@@ -30,14 +30,14 @@
 
             <!--Back Button-->
             <Image Grid.Row="0" HorizontalAlignment="Left" Height="20" Width="20" Margin="10,10" VerticalAlignment="Top" Source="BackArrow.png" Opacity=".4"/>
-            
+
             <!--Clock and Timer-->
-            
-            
-            
+
+
+
             <!--Up Next text-->
-                        
-            
+
+
         </Grid>
 
 

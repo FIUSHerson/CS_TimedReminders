@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_TimedReminders", "CS_TimedReminders.csproj", "{7C812F03-188A-4881-B545-F0492CA782AD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_TimedReminders", "CS_TimedReminders.csproj", "{27E85D75-6ACE-4674-B574-81B398D25816}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7C812F03-188A-4881-B545-F0492CA782AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7C812F03-188A-4881-B545-F0492CA782AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7C812F03-188A-4881-B545-F0492CA782AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7C812F03-188A-4881-B545-F0492CA782AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27E85D75-6ACE-4674-B574-81B398D25816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E85D75-6ACE-4674-B574-81B398D25816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27E85D75-6ACE-4674-B574-81B398D25816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E85D75-6ACE-4674-B574-81B398D25816}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {FE2E36BC-94F7-4AEB-9292-BD227D106ED7}
+		SolutionGuid = {58DA2597-F366-40EF-B121-41713D1DC224}
 	EndGlobalSection
 EndGlobal
