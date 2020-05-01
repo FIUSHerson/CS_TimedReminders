@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\anthi\OneDrive\Documents\projects\CS_TimedReminders_github\App.xaml
-11151548125
+4291666773
 515-1623425545
-61375768483
+9270025222
 20-1889136428
-MainWindow.xaml;
+Pages\Countdown.xaml;Pages\Startup.xaml;Windows\AddElement.xaml;Windows\MainWindow.xaml;
 
-False
+True
 
