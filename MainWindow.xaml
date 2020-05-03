@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CS_TimedReminders"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-
+        Title="MainWindow" Height="650" Width="900">
+    <Grid Margin="0,0,0,-6">
+        <Button x:Name="button" Content="Button" HorizontalAlignment="Left" Margin="351,178,0,0" VerticalAlignment="Top" Height="98" Width="118" Click="button_Click"/>
     </Grid>
 </Window>

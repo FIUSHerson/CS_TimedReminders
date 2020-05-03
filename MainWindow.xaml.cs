@@ -24,5 +24,17 @@ namespace CS_TimedReminders
         {
             InitializeComponent();
         }
+
+        private void button_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
+        {
+            var Windowtest = new Windows.AddElement();
+            Windowtest.Show();
+        }
+
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+            var Windowtest = new Windows.AddElement();
+            Windowtest.Show();
+        }
     }
 }

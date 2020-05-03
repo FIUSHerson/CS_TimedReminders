@@ -21,5 +21,20 @@ namespace CS_TimedReminders.Windows
         {
             InitializeComponent();
         }
+
+        private void Add_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Cancel_MouseDown(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("test");
+        }
+
+        private void Cancel_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("test");
+        }
     }
 }
