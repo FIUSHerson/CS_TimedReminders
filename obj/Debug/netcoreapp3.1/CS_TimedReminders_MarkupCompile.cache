@@ -4,15 +4,15 @@
 winexe
 C#
 .cs
-C:\Users\anthi\OneDrive\Documents\projects\CS_TimedReminders\obj\Debug\netcoreapp3.1\
+C:\Users\anthi\OneDrive\Documents\projects\CS_TimedReminders_github\obj\Debug\netcoreapp3.1\
 CS_TimedReminders
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
-C:\Users\anthi\OneDrive\Documents\projects\CS_TimedReminders\App.xaml
+C:\Users\anthi\OneDrive\Documents\projects\CS_TimedReminders_github\App.xaml
 4-702218141
 
-61294465029
+81188522980
 1921654412462
 MainWindow.xaml;Pages\Countdown.xaml;Pages\Startup.xaml;Windows\AddElement.xaml;
 
