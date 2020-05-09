@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anthi\\OneDrive\\Documents\\projects\\CS_TimedReminders\\CS_TimedReminders.csproj",
+      "projectUniqueName": "C:\\Users\\anthi\\OneDrive\\Documents\\projects\\CS_TimedReminders_github\\CS_TimedReminders.csproj",
       "projectName": "CS_TimedReminders",
-      "projectPath": "C:\\Users\\anthi\\OneDrive\\Documents\\projects\\CS_TimedReminders\\CS_TimedReminders.csproj",
+      "projectPath": "C:\\Users\\anthi\\OneDrive\\Documents\\projects\\CS_TimedReminders_github\\CS_TimedReminders.csproj",
       "packagesPath": "C:\\Users\\anthi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anthi\\OneDrive\\Documents\\projects\\CS_TimedReminders\\obj\\",
+      "outputPath": "C:\\Users\\anthi\\OneDrive\\Documents\\projects\\CS_TimedReminders_github\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
